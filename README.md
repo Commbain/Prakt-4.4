@@ -16,7 +16,7 @@
 ### Установка и запуск
 ```bash
 # Клонирование репозитория
-git clone https://github.com/Commtain/Prank-4.4.git
+git clone https://github.com/Commbain/Prank-4.4.git
 cd Prank-4.4
 
 # Запуск симуляции
